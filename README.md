@@ -6,6 +6,6 @@ learn some git command
 second learn some 
 
 
-cjz first czj
+cjz first czj czj czj lova hj
 
 second learn some czj 
