@@ -3,4 +3,4 @@
 
 learn some git command
 
-second learn some 
+second learn some czj 
