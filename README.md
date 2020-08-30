@@ -3,4 +3,9 @@
 czj learn
 learn some git command
 
+second learn some 
+
+
+cjz first czj
+
 second learn some czj 
